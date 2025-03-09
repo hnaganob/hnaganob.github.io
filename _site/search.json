@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog 1\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 2\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 8, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "cee vee\nNunc ac dignissim magna. Vestibulum vitae egestas elit. Proin feugiat leo quis ante condimentum, eu ornare mauris feugiat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris cursus laoreet ex, dignissim bibendum est posuere iaculis. Suspendisse et maximus elit. In fringilla gravida ornare. Aenean id lectus pulvinar, sagittis felis nec, rutrum risus. Nam vel neque eu arcu blandit fringilla et in quam. Aliquam luctus est sit amet vestibulum eleifend. Phasellus elementum sagittis molestie. Proin tempor lorem arcu, at condimentum purus volutpat eu. Fusce et pellentesque ligula. Pellentesque id tellus at erat luctus fringilla. Suspendisse potenti."
+  },
+  {
+    "objectID": "portfolio/shiny/mickey-mouse/index.html",
+    "href": "portfolio/shiny/mickey-mouse/index.html",
+    "title": "Mickey Mouse",
+    "section": "",
+    "text": "Mickey Mouse"
+  },
+  {
+    "objectID": "portfolio/consulting.html",
+    "href": "portfolio/consulting.html",
+    "title": "Statistical Consulting",
+    "section": "",
+    "text": "Etiam maximus accumsan gravida. Maecenas at nunc dignissim, euismod enim ac, bibendum ipsum. Maecenas vehicula velit in nisl aliquet ultricies. Nam eget massa interdum, maximus arcu vel, pretium erat. Maecenas sit amet tempor purus, vitae aliquet nunc. Vivamus cursus urna velit, eleifend dictum magna laoreet ut. Duis eu erat mollis, blandit magna id, tincidunt ipsum. Integer massa nibh, commodo eu ex vel, venenatis efficitur ligula. Integer convallis lacus elit, maximus eleifend lacus ornare ac. Vestibulum scelerisque viverra urna id lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget enim at diam bibendum tincidunt eu non purus. Nullam id magna ultrices, sodales metus viverra, tempus turpis."
+  },
+  {
+    "objectID": "blog/post-1/index.html",
+    "href": "blog/post-1/index.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts_old/welcome/index.html",
+    "href": "posts_old/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts_old/post-with-code/index.html",
+    "href": "posts_old/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hiroki Naganobori",
+    "section": "",
+    "text": "Vestibulum ultrices, tortor at mattis porta, odio nisi rutrum nulla, sit amet tincidunt eros quam facilisis tellus. Fusce eleifend lectus in elementum lacinia. Nam auctor nunc in massa ullamcorper, sit amet auctor ante accumsan. Nam ut varius metus. Curabitur eget tristique leo. Cras finibus euismod erat eget elementum. Integer vel placerat ex. Ut id eros quis lectus lacinia venenatis hendrerit vel ante."
+  },
+  {
+    "objectID": "blog/post-2/index.html",
+    "href": "blog/post-2/index.html",
+    "title": "Post 2",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio/shiny/brain-network/index.html",
+    "href": "portfolio/shiny/brain-network/index.html",
+    "title": "Brain Network",
+    "section": "",
+    "text": "Brain Network"
+  },
+  {
+    "objectID": "portfolio/shiny.html",
+    "href": "portfolio/shiny.html",
+    "title": "Shiny Projects",
+    "section": "",
+    "text": "Brain Network\n\n\n\n\n\n\nshiny\n\n\nnetwork\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMickey Mouse\n\n\n\n\n\n\nshiny\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Shiny Projects\nInteractive web applications built using R Shiny for data visualization and analysis.\n\n\nStatistical Consulting\nData analysis, modeling, and statistical insights provided through consulting projects."
+  }
+]

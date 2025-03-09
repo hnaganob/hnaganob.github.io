@@ -1,0 +1,10 @@
+---
+title: "Brain Network"
+# author: "Harlow Malloc"
+# date: "2025-03-08"
+categories: [shiny, network]
+# image: "image.jpg"
+image: "ShinyBrainNetwork_MRF.png"
+---
+
+### [Brain Network](https://hnaganob.shinyapps.io/BrainNetwork/)
