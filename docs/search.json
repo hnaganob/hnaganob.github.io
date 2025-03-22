@@ -4,6 +4,83 @@
     "href": "index.html",
     "title": "Hiroki Naganobori",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "Etiam non efficitur urna, quis elementum nisi. Mauris posuere a augue vel gravida. Praesent luctus erat et ex iaculis interdum. Nulla vestibulum quam ac nunc consequat vulputate. Nullam iaculis lobortis sem sit amet fringilla. Aliquam semper, metus ut blandit semper, nulla velit fermentum sapien, fermentum ultrices dolor sapien sed leo. Vestibulum molestie faucibus magna, at feugiat nulla ullamcorper a. Aliquam erat volutpat. Praesent scelerisque magna a justo maximus, sit amet suscipit mauris tempor. Nulla nec dolor eget ipsum pellentesque lobortis a in ipsum. Morbi turpis turpis, fringilla a eleifend maximus, viverra nec neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog 1\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 2\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 8, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "cee vee\nEtiam quis tortor luctus, pellentesque ante a, finibus dolor. Phasellus in nibh et magna pulvinar malesuada. Ut nisl ex, sagittis at sollicitudin et, sollicitudin id nunc. In id porta urna. Proin porta dolor dolor, vel dapibus nisi lacinia in. Pellentesque ante mauris, ornare non euismod a, fermentum ut sapien. Proin sed vehicula enim. Aliquam tortor odio, vestibulum vitae odio in, tempor molestie justo. Praesent maximus lacus nec leo maximus blandit."
+  },
+  {
+    "objectID": "portfolio/shiny/mickey-mouse/index.html",
+    "href": "portfolio/shiny/mickey-mouse/index.html",
+    "title": "Mickey Mouse",
+    "section": "",
+    "text": "Mickey Mouse"
+  },
+  {
+    "objectID": "portfolio/consulting.html",
+    "href": "portfolio/consulting.html",
+    "title": "Statistical Consulting",
+    "section": "",
+    "text": "Duis urna urna, pellentesque eu urna ut, malesuada bibendum dolor. Suspendisse potenti. Vivamus ornare, arcu quis molestie ultrices, magna est accumsan augue, auctor vulputate erat quam quis neque. Nullam scelerisque odio vel ultricies facilisis. Ut porta arcu non magna sagittis lacinia. Cras ornare vulputate lectus a tristique. Pellentesque ac arcu congue, rhoncus mi id, dignissim ligula."
+  },
+  {
+    "objectID": "blog/post-1/index.html",
+    "href": "blog/post-1/index.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts_old/post-with-code/index.html",
+    "href": "posts_old/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts_old/welcome/index.html",
+    "href": "posts_old/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/post-2/index.html",
+    "href": "blog/post-2/index.html",
+    "title": "Post 2",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio/shiny/brain-network/index.html",
+    "href": "portfolio/shiny/brain-network/index.html",
+    "title": "Brain Network",
+    "section": "",
+    "text": "Brain Network"
+  },
+  {
+    "objectID": "portfolio/shiny.html",
+    "href": "portfolio/shiny.html",
+    "title": "Shiny Projects",
+    "section": "",
+    "text": "Brain Network\n\n\n\n\n\n\nshiny\n\n\nnetwork\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMickey Mouse\n\n\n\n\n\n\nshiny\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Shiny Projects\nInteractive web applications built using R Shiny for data visualization and analysis.\n\n\nStatistical Consulting\nData analysis, modeling, and statistical insights provided through consulting projects."
   }
 ]
