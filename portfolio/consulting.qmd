@@ -5,6 +5,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-![](consulting/職務経歴書_NaganoboriHiroki.pdf)
-
-{{< lipsum 1 >}}
+![](consulting/Portfolio_StatisticalConsulting_2025-03.pdf){width=100% height=800px}
