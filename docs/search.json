@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hiroki Naganobori",
     "section": "",
-    "text": "Etiam non efficitur urna, quis elementum nisi. Mauris posuere a augue vel gravida. Praesent luctus erat et ex iaculis interdum. Nulla vestibulum quam ac nunc consequat vulputate. Nullam iaculis lobortis sem sit amet fringilla. Aliquam semper, metus ut blandit semper, nulla velit fermentum sapien, fermentum ultrices dolor sapien sed leo. Vestibulum molestie faucibus magna, at feugiat nulla ullamcorper a. Aliquam erat volutpat. Praesent scelerisque magna a justo maximus, sit amet suscipit mauris tempor. Nulla nec dolor eget ipsum pellentesque lobortis a in ipsum. Morbi turpis turpis, fringilla a eleifend maximus, viverra nec neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    "text": "Vestibulum ultrices, tortor at mattis porta, odio nisi rutrum nulla, sit amet tincidunt eros quam facilisis tellus. Fusce eleifend lectus in elementum lacinia. Nam auctor nunc in massa ullamcorper, sit amet auctor ante accumsan. Nam ut varius metus. Curabitur eget tristique leo. Cras finibus euismod erat eget elementum. Integer vel placerat ex. Ut id eros quis lectus lacinia venenatis hendrerit vel ante."
   },
   {
     "objectID": "blog.html",
@@ -18,7 +18,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "cee vee\nEtiam quis tortor luctus, pellentesque ante a, finibus dolor. Phasellus in nibh et magna pulvinar malesuada. Ut nisl ex, sagittis at sollicitudin et, sollicitudin id nunc. In id porta urna. Proin porta dolor dolor, vel dapibus nisi lacinia in. Pellentesque ante mauris, ornare non euismod a, fermentum ut sapien. Proin sed vehicula enim. Aliquam tortor odio, vestibulum vitae odio in, tempor molestie justo. Praesent maximus lacus nec leo maximus blandit."
+    "text": "cee vee\nNullam dapibus cursus dolor sit amet consequat. Nulla facilisi. Curabitur vel nulla non magna lacinia tincidunt. Duis porttitor quam leo, et blandit velit efficitur ut. Etiam auctor tincidunt porttitor. Phasellus sed accumsan mi. Fusce ut erat dui. Suspendisse eu augue eget turpis condimentum finibus eu non lorem. Donec finibus eros eu ante condimentum, sed pharetra sapien sagittis. Phasellus non dolor ac ante mollis auctor nec et sapien. Pellentesque vulputate at nisi eu tincidunt. Vestibulum at dolor aliquam, hendrerit purus eu, eleifend massa. Morbi consectetur eros id tincidunt gravida. Fusce ut enim quis orci hendrerit lacinia sed vitae enim."
   },
   {
     "objectID": "portfolio/shiny/mickey-mouse/index.html",
@@ -32,7 +32,7 @@
     "href": "portfolio/consulting.html",
     "title": "Statistical Consulting",
     "section": "",
-    "text": "Duis urna urna, pellentesque eu urna ut, malesuada bibendum dolor. Suspendisse potenti. Vivamus ornare, arcu quis molestie ultrices, magna est accumsan augue, auctor vulputate erat quam quis neque. Nullam scelerisque odio vel ultricies facilisis. Ut porta arcu non magna sagittis lacinia. Cras ornare vulputate lectus a tristique. Pellentesque ac arcu congue, rhoncus mi id, dignissim ligula."
+    "text": "{width = 100% height = 1000px}"
   },
   {
     "objectID": "blog/post-1/index.html",
@@ -72,7 +72,7 @@
   {
     "objectID": "portfolio/shiny.html",
     "href": "portfolio/shiny.html",
-    "title": "Shiny Projects",
+    "title": "Shiny Web Apps",
     "section": "",
     "text": "Brain Network\n\n\n\n\n\n\nshiny\n\n\nnetwork\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMickey Mouse\n\n\n\n\n\n\nshiny\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -81,6 +81,6 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Shiny Projects\nInteractive web applications built using R Shiny for data visualization and analysis.\n\n\nStatistical Consulting\nData analysis, modeling, and statistical insights provided through consulting projects."
+    "text": "Shiny Web Apps\nInteractive web applications built using R Shiny for data visualization and analysis.\n\n\nStatistical Consulting\nData analysis, modeling, and statistical insights provided through consulting projects."
   }
 ]
