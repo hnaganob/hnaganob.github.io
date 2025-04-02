@@ -8,3 +8,5 @@ image: "ShinyBrainNetwork_MRF.png"
 ---
 
 ### [Brain Network](https://hnaganob.shinyapps.io/BrainNetwork/)
+
+![](ShinyBrainNetwork_MRF.png)

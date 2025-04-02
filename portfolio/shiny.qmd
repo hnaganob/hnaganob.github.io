@@ -1,5 +1,5 @@
 ---
-title: "Shiny Projects"
+title: "Shiny Web Apps"
 listing:
   contents: shiny
   sort: "date desc"
