@@ -2,7 +2,7 @@
 title: "Post 2"
 author: "Harlow Malloc"
 date: "2025-03-08"
-categories: [news, code, analysis]
+categories: [news, analysis]
 image: "image.jpg"
 ---
 

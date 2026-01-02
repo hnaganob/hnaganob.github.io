@@ -1,9 +1,0 @@
----
-title: "Mickey Mouse"
-# author: "Tristan O'Malley"
-# date: "2025-03-05"
-categories: [shiny]
-image: shiny-mickey-mouse.png
----
-
-### [Mickey Mouse](https://hnaganob.shinyapps.io/mickey-mouse/)

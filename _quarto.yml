@@ -6,33 +6,37 @@ website:
   title: "Hiroki Naganobori"
   navbar:
     left: 
-      # - text: "Home"
-      #   file: index.qmd
       - text: "Portfolio"
         menu:
-          - text: "Overview"
-            href: portfolio.qmd
-          - text: "Shiny Projects"
+          - text: "Shiny Web Apps"
             href: portfolio/shiny.qmd
           - text: "Statistical Consulting"
             href: portfolio/consulting.qmd
-        # file: portfolio.qmd
+      - text: "Research"
+        menu:
+          - text: "Dissertation"
+            href: research/dissertation.qmd
       - text: "CV"
         file: cv.qmd
-      - text: "Blog"
-        file: blog.qmd
     right:
-      # - about.qmd
       - icon: github
         href: https://github.com/hnaganob/
         target: _blank
       - icon: linkedin
         href: https://www.linkedin.com/in/hnaganob/
         target: _blank
+      - icon: brightness-high
+        text: " "
+
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: cyborg
     css: styles.css
 
 editor: visual
 
+bibliography: references.bib
+
+freeze: false

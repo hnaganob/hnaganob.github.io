@@ -3,15 +3,14 @@ _site/
 _freeze/
 _quarto.yml~
 .quarto/
+docs/
 
 # R and RStudio files
-.Rproj.user
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 
-/.quarto/
-
 # System files
 .DS_Store
-
+/.quarto/
