@@ -25,14 +25,13 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/hnaganob/
         target: _blank
-      - icon: brightness-high
-        text: " "
+      # - icon: brightness-high
+      #   text: " "
 
-format:
-  html:
-    theme:
-      light: cosmo
-      dark: cyborg
+format: html
+    # theme:
+    #   light: cosmo
+    #   dark: cyborg
     # css: styles.css
 
 editor: visual
