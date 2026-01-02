@@ -28,11 +28,12 @@ website:
       - icon: brightness-high
         text: " "
 
-format: html
-    # theme:
-    #   light: cosmo
-    #   dark: cyborg
-    # css: styles.css
+format: 
+  html:
+    theme:
+      light: cosmo
+      dark: cyborg
+    css: styles.css
 
 editor: visual
 
