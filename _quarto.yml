@@ -33,7 +33,7 @@ format:
     theme:
       light: cosmo
       dark: cyborg
-    css: styles.css
+    # css: styles.css
 
 editor: visual
 

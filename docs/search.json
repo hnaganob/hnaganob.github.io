@@ -107,7 +107,7 @@
   {
     "objectID": "blog/post-1/index.html",
     "href": "blog/post-1/index.html",
-    "title": "Blog 1",
+    "title": "Post 1",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
