@@ -25,8 +25,8 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/hnaganob/
         target: _blank
-      # - icon: brightness-high
-      #   text: " "
+      - icon: brightness-high
+        text: " "
 
 format: html
     # theme:
