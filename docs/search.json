@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Post 1\n\n\n\n\n\n\ncode\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 2\n\n\n\n\n\n\nnews\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 8, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -14,137 +7,39 @@
     "text": "Ph.D. Candidate in Neuroscience & Human Performance (2026 exp)  Indiana University Bloomington\nM.S. in Applied Statistics, Indiana University Bloomington  M.S. in Exercise Physiology, Indiana University Bloomington  B.S. in Exercise Science, Indiana University Bloomington"
   },
   {
-    "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html",
-    "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html",
-    "title": "CAR Dependence Parameter Diagnostics",
-    "section": "",
-    "text": "It computes the graph-specific range of conditiona autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/"
-  },
-  {
-    "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#overview",
-    "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#overview",
-    "title": "CAR Dependence Parameter Diagnostics",
-    "section": "",
-    "text": "It computes the graph-specific range of conditiona autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/"
-  },
-  {
-    "objectID": "portfolio/shiny/brain/brain-network/index.html",
-    "href": "portfolio/shiny/brain/brain-network/index.html",
-    "title": "Brain Network",
-    "section": "",
-    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/brain-network/\nIt aims to explain how the brain functions as a system through its structural network."
-  },
-  {
-    "objectID": "portfolio/shiny/brain/brain-network/index.html#overview",
-    "href": "portfolio/shiny/brain/brain-network/index.html#overview",
-    "title": "Brain Network",
-    "section": "",
-    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/brain-network/\nIt aims to explain how the brain functions as a system through its structural network."
-  },
-  {
-    "objectID": "portfolio/shiny/brain/brain-network/index.html#data",
-    "href": "portfolio/shiny/brain/brain-network/index.html#data",
-    "title": "Brain Network",
-    "section": "Data",
-    "text": "Data\n\nResting functional MRI BOLD signals (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
-  },
-  {
-    "objectID": "portfolio/shiny/miscellaneous/mickey-mouse/index.html",
-    "href": "portfolio/shiny/miscellaneous/mickey-mouse/index.html",
-    "title": "Mickey Mouse",
-    "section": "",
-    "text": "My first Shiny app.\nhttps://hnaganob.shinyapps.io/mickey-mouse/\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:10]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\""
-  },
-  {
-    "objectID": "portfolio/shiny/miscellaneous/mickey-mouse/index.html#overview",
-    "href": "portfolio/shiny/miscellaneous/mickey-mouse/index.html#overview",
-    "title": "Mickey Mouse",
-    "section": "",
-    "text": "My first Shiny app.\nhttps://hnaganob.shinyapps.io/mickey-mouse/\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:10]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\""
-  },
-  {
-    "objectID": "blog/post-2/index.html",
-    "href": "blog/post-2/index.html",
-    "title": "Post 2",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hiroki Naganobori",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
     "section": "",
     "text": "Ph.D. Candidate in Neuroscience & Human Performance (2026 exp)  Indiana University Bloomington\nM.S. in Applied Statistics, Indiana University Bloomington  M.S. in Exercise Physiology, Indiana University Bloomington  B.S. in Exercise Science, Indiana University Bloomington"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hiroki Naganobori",
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\n2017 - 2022  Biostatistics Associate  Biostatistics Consulting Center, Department of Epidemiology and Biostatistics, School of Public Health, Indiana University Bloomington\n2020 - 2021  Research Assistant  The NCAA-DoD Concussion Assessment, Research, and Education (CARE) Consortium  Department of Epidemiology and Biostatistics, School of Public Health, Indiana University\n2014 - 2016  Consulting Associate  Indiana Statistical Consulting Center, Department of Statistics, Indiana University Bloomington\n2007 - 2009  Research Scholar  Counsilman Center for the Science of Swimming, Department of Kinesiology, Indiana University Bloomington"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\n2020  Associate Instructor (Neuroscience)  Program in Neuroscience, Indiana University Bloomington\n2019  Adjunct Lecturer (Motor Learning)  Department of Kinesiology, Indiana University Bloomington\n2014 - 2016  Associate Instructor (Statistical Literacy)  Department of Statistics, Indiana University Bloomington\n2013  Teaching Assistant (Statistical Literacy)  Department of Statistics, Indiana University Bloomington\n2009 - 2012  Associate Instructor (Exercise Physiology)  Department of Kinesiology, Indiana University Bloomington"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nVarley, Thomas F., Daniel Havert, Leandro Fosque, Abolfazl Alipour, Naruepon Weerawongphrom, Hiroki Naganobori, Lily O’Shea, Maria Pope, and John Beggs. 2024. “The Serotonergic Psychedelic n,n-Dipropyltryptamine Alters Information-Processing Dynamics in in Vitro Cortical Neural Circuits.” Network Neuroscience 8 (4): 1421–38. https://doi.org/10.1162/netn_a_00408.\nSeifert, Jack, Alok Shah, Jaroslaw Harezlak, Hiroki Naganobori, Jared Muench, Steven Rowson, Stefan Duma, et al. 2022. “Elevated Rate of Head Impacts at Time of Injury in Concussed NCAA Division i American Football Players: Findings from the NCAA-DoD CARE Consortium.” In BRAIN INJURY, 36:65–66.\nStager, Joel M., Andrew C. Cornett, and Hiroki Naganobori. 2013. “Vertical Head Velocity During Worst-Case Scenario Swim Starts.” International Journal of Aquatic Research and Education 7 (3). https://doi.org/10.25035/ijare.07.03.05.\nCornett, Andrew C., Hiroki Naganobori, and Joel M. Stager. 2012. “Intra-Individual Head Depth Variability During the Competitive Swim Start.” International Journal of Aquatic Research and Education 6 (4). https://doi.org/10.25035/ijare.06.04.09."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Ph.D. Candidate in Neuroscience & Human Performance (2026 exp)  Indiana University Bloomington\nM.S. in Applied Statistics, Indiana University Bloomington  M.S. in Exercise Physiology, Indiana University Bloomington  B.S. in Exercise Science, Indiana University Bloomington"
-  },
-  {
-    "objectID": "index.html#scholarly-interests",
-    "href": "index.html#scholarly-interests",
-    "title": "Hiroki Naganobori",
-    "section": "Scholarly Interests",
-    "text": "Scholarly Interests\n\nBrain Network Analysis\nMarkov Random Field\nNegative Spatial Autocorrelation\nStatistical Programming\nR Shiny Data Visualization\nStatistical Consulting"
-  },
-  {
-    "objectID": "posts_old/welcome/index.html",
-    "href": "posts_old/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts_old/post-with-code/index.html",
-    "href": "posts_old/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "blog/post-1/index.html",
-    "href": "blog/post-1/index.html",
-    "title": "Post 1",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "portfolio/shiny/sports/swim-rank/index.html",
-    "href": "portfolio/shiny/sports/swim-rank/index.html",
-    "title": "FINA Swimming Rankings",
-    "section": "",
-    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nhttps://hnaganob.shinyapps.io/fina-swimming-rankings/"
-  },
-  {
-    "objectID": "portfolio/shiny/sports/swim-rank/index.html#overview",
-    "href": "portfolio/shiny/sports/swim-rank/index.html#overview",
-    "title": "FINA Swimming Rankings",
-    "section": "",
-    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nhttps://hnaganob.shinyapps.io/fina-swimming-rankings/"
-  },
-  {
-    "objectID": "portfolio/shiny/brain/brain-network-mrf/index.html",
-    "href": "portfolio/shiny/brain/brain-network-mrf/index.html",
-    "title": "CAR Brain Network Analysis",
-    "section": "",
-    "text": "Markov random field approach with conditional autoregressive (CAR) model on resting fMRI data using spdep and spatialreg packages (Bivand, Millo, and Piras 2021).\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
-  },
-  {
-    "objectID": "portfolio/shiny/brain/brain-network-mrf/index.html#overview",
-    "href": "portfolio/shiny/brain/brain-network-mrf/index.html#overview",
-    "title": "CAR Brain Network Analysis",
-    "section": "",
-    "text": "Markov random field approach with conditional autoregressive (CAR) model on resting fMRI data using spdep and spatialreg packages (Bivand, Millo, and Piras 2021).\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
-  },
-  {
-    "objectID": "portfolio/shiny/brain/brain-network-mrf/index.html#data",
-    "href": "portfolio/shiny/brain/brain-network-mrf/index.html#data",
-    "title": "CAR Brain Network Analysis",
-    "section": "Data",
-    "text": "Data\n\nResting functional MRI BOLD signals (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
+    "text": "Post 1\n\n\n\n\n\n\ncode\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 2\n\n\n\n\n\n\nnews\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 8, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/shiny.html",
@@ -175,146 +70,6 @@
     "text": "Miscellaneous\n\n\n\n\n\n\n\n\n\n\nMickey Mouse\n\n\nMy first Shiny app.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSurface Plot\n\n\nCustom 3-dimentional spatial data visualization.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Shiny Web Apps\nInteractive web applications built using R Shiny for data visualization and analysis.\n\n\nStatistical Consulting\nData analysis, modeling, and statistical insights provided through consulting projects."
-  },
-  {
-    "objectID": "portfolio/shiny/sports/field-hockey/index.html",
-    "href": "portfolio/shiny/sports/field-hockey/index.html",
-    "title": "Field Hockey Animation",
-    "section": "",
-    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nhttps://hnaganob.shinyapps.io/field-hockey/"
-  },
-  {
-    "objectID": "portfolio/shiny/sports/field-hockey/index.html#overview",
-    "href": "portfolio/shiny/sports/field-hockey/index.html#overview",
-    "title": "Field Hockey Animation",
-    "section": "",
-    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nhttps://hnaganob.shinyapps.io/field-hockey/"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Interactive web applications built using R Shiny for data visualization and analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research.html#dissertation",
-    "href": "research.html#dissertation",
-    "title": "Research",
-    "section": "",
-    "text": "Interactive web applications built using R Shiny for data visualization and analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research.html#sports",
-    "href": "research.html#sports",
-    "title": "Research",
-    "section": "Sports",
-    "text": "Sports"
-  },
-  {
-    "objectID": "research.html#miscellaneous",
-    "href": "research.html#miscellaneous",
-    "title": "Research",
-    "section": "Miscellaneous",
-    "text": "Miscellaneous"
-  },
-  {
-    "objectID": "research/dissertation.html",
-    "href": "research/dissertation.html",
-    "title": "Dissertation",
-    "section": "",
-    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas.\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\notintin"
-  },
-  {
-    "objectID": "research/dissertation.html#dissertation",
-    "href": "research/dissertation.html#dissertation",
-    "title": "Dissertation",
-    "section": "",
-    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas."
-  },
-  {
-    "objectID": "research/dissertation.html#sports",
-    "href": "research/dissertation.html#sports",
-    "title": "Dissertation",
-    "section": "Sports",
-    "text": "Sports"
-  },
-  {
-    "objectID": "research/dissertation.html#miscellaneous",
-    "href": "research/dissertation.html#miscellaneous",
-    "title": "Dissertation",
-    "section": "Miscellaneous",
-    "text": "Miscellaneous"
-  },
-  {
-    "objectID": "research/dissertation/index.html",
-    "href": "research/dissertation/index.html",
-    "title": "CAR Brain Network Analysis",
-    "section": "",
-    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nIt aims to explain how the brain functions as a system through its structural network."
-  },
-  {
-    "objectID": "research/dissertation/index.html#overview",
-    "href": "research/dissertation/index.html#overview",
-    "title": "CAR Brain Network Analysis",
-    "section": "",
-    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nIt aims to explain how the brain functions as a system through its structural network."
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nVarley, Thomas F., Daniel Havert, Leandro Fosque, Abolfazl Alipour, Naruepon Weerawongphrom, Hiroki Naganobori, Lily O’Shea, Maria Pope, and John Beggs. 2024. “The Serotonergic Psychedelic n,n-Dipropyltryptamine Alters Information-Processing Dynamics in in Vitro Cortical Neural Circuits.” Network Neuroscience 8 (4): 1421–38. https://doi.org/10.1162/netn_a_00408.\nSeifert, Jack, Alok Shah, Jaroslaw Harezlak, Hiroki Naganobori, Jared Muench, Steven Rowson, Stefan Duma, et al. 2022. “Elevated Rate of Head Impacts at Time of Injury in Concussed NCAA Division i American Football Players: Findings from the NCAA-DoD CARE Consortium.” In BRAIN INJURY, 36:65–66.\nStager, Joel M., Andrew C. Cornett, and Hiroki Naganobori. 2013. “Vertical Head Velocity During Worst-Case Scenario Swim Starts.” International Journal of Aquatic Research and Education 7 (3). https://doi.org/10.25035/ijare.07.03.05.\nCornett, Andrew C., Hiroki Naganobori, and Joel M. Stager. 2012. “Intra-Individual Head Depth Variability During the Competitive Swim Start.” International Journal of Aquatic Research and Education 6 (4). https://doi.org/10.25035/ijare.06.04.09."
-  },
-  {
-    "objectID": "research/dissertation.html#overview",
-    "href": "research/dissertation.html#overview",
-    "title": "Dissertation",
-    "section": "",
-    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas.\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\notintin"
-  },
-  {
-    "objectID": "portfolio/consulting.html#acknowledged-publications",
-    "href": "portfolio/consulting.html#acknowledged-publications",
-    "title": "Statistical Consulting",
-    "section": "Acknowledged Publications",
-    "text": "Acknowledged Publications"
-  },
-  {
-    "objectID": "portfolio/consulting.html",
-    "href": "portfolio/consulting.html",
-    "title": "Statistical Consulting",
-    "section": "",
-    "text": "Acknowledged Publications"
-  },
-  {
-    "objectID": "research/dissertation.html#brain-network-analysis-with-the-conditional-autoregressive-car-model",
-    "href": "research/dissertation.html#brain-network-analysis-with-the-conditional-autoregressive-car-model",
-    "title": "Dissertation",
-    "section": "1. Brain Network Analysis with the Conditional Autoregressive (CAR) Model",
-    "text": "1. Brain Network Analysis with the Conditional Autoregressive (CAR) Model\nI apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
-  },
-  {
-    "objectID": "research/dissertation.html#simulation-for-spatially-autocorrelated-data",
-    "href": "research/dissertation.html#simulation-for-spatially-autocorrelated-data",
-    "title": "Dissertation",
-    "section": "2. Simulation for Spatially Autocorrelated Data",
-    "text": "2. Simulation for Spatially Autocorrelated Data"
-  },
-  {
-    "objectID": "research/dissertation.html#interpretation-of-negative-spatial-dependence",
-    "href": "research/dissertation.html#interpretation-of-negative-spatial-dependence",
-    "title": "Dissertation",
-    "section": "3. Interpretation of Negative Spatial Dependence",
-    "text": "3. Interpretation of Negative Spatial Dependence\nThe Nobel Peace Prize laureate Elie Wiesel stated, “The opposite of love is not hate, it’s indifference.” If we define love as perfect positive correlation (i.e., ρ = +1), hate as perfect negative correlation (i.e., ρ = –1), and the opposite of love as the most negative possible relationship, then in a simple graph of two nodes, the opposite of love is indeed hate. However, from a network perspective, in a highly connected graph where each node is connected to many other nodes, the opposite of love approaches statistical independence (i.e., ρ = 0), which corresponds to indifference.\nBuilding on this conceptual framework, I offer an interpretation of negative spatial autocorrelation in graphs. Using a random walk based simulation algorithm, I generate synthetic network data that are negatively autocorrelated and intrinsically consistent with the underlying graph structure. This enables systematic exploration of how graph topology, particularly clustering and node degree, affects the emergence and behavior of negatively correlated spatial structures.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/\nTo support this analysis, I developed an interactive Shiny web application which computes the graph-specific admissible range of the spatial dependence parameter. The app demonstrates how negative spatial dependence produces unintuitive pairwise correlations among nodes, especially under complex graph structures. This tool helps reveal that negative autocorrelation does not simply invert positive relationships, but instead reflects deeper structural dynamics in the network."
-  },
-  {
     "objectID": "portfolio/shiny/brain/car-brain-network-analysis/index.html",
     "href": "portfolio/shiny/brain/car-brain-network-analysis/index.html",
     "title": "CAR Brain Network Analysis",
@@ -336,39 +91,18 @@
     "text": "Data\n\nScaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs with TR \\(=\\) 2s (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
   },
   {
-    "objectID": "portfolio/shiny/miscellaneous/surface-plot/index.html",
-    "href": "portfolio/shiny/miscellaneous/surface-plot/index.html",
-    "title": "Surface Plot",
+    "objectID": "portfolio/shiny/sports/swim-rank/index.html",
+    "href": "portfolio/shiny/sports/swim-rank/index.html",
+    "title": "FINA Swimming Rankings",
     "section": "",
-    "text": "Custom 3-dimentional spatial data visualization.\nhttps://hnaganob.shinyapps.io/surface-plot"
+    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nhttps://hnaganob.shinyapps.io/fina-swimming-rankings/"
   },
   {
-    "objectID": "portfolio/shiny/miscellaneous/surface-plot/index.html#overview",
-    "href": "portfolio/shiny/miscellaneous/surface-plot/index.html#overview",
-    "title": "Surface Plot",
+    "objectID": "portfolio/shiny/sports/swim-rank/index.html#overview",
+    "href": "portfolio/shiny/sports/swim-rank/index.html#overview",
+    "title": "FINA Swimming Rankings",
     "section": "",
-    "text": "Custom 3-dimentional spatial data visualization.\nhttps://hnaganob.shinyapps.io/surface-plot"
-  },
-  {
-    "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#aims",
-    "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#aims",
-    "title": "CAR Dependence Parameter Diagnostics",
-    "section": "Aims",
-    "text": "Aims\n\nDemonstrates how triadic structures influence spatial autocorrelation patterns by cubic and hexagonal lattices."
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\nVarley, Thomas F., Daniel Havert, Leandro Fosque, Abolfazl Alipour, Naruepon Weerawongphrom, Hiroki Naganobori, Lily O’Shea, Maria Pope, and John Beggs. 2024. “The Serotonergic Psychedelic n,n-Dipropyltryptamine Alters Information-Processing Dynamics in in Vitro Cortical Neural Circuits.” Network Neuroscience 8 (4): 1421–38. https://doi.org/10.1162/netn_a_00408.\nSeifert, Jack, Alok Shah, Jaroslaw Harezlak, Hiroki Naganobori, Jared Muench, Steven Rowson, Stefan Duma, et al. 2022. “Elevated Rate of Head Impacts at Time of Injury in Concussed NCAA Division i American Football Players: Findings from the NCAA-DoD CARE Consortium.” In BRAIN INJURY, 36:65–66.\nStager, Joel M., Andrew C. Cornett, and Hiroki Naganobori. 2013. “Vertical Head Velocity During Worst-Case Scenario Swim Starts.” International Journal of Aquatic Research and Education 7 (3). https://doi.org/10.25035/ijare.07.03.05.\nCornett, Andrew C., Hiroki Naganobori, and Joel M. Stager. 2012. “Intra-Individual Head Depth Variability During the Competitive Swim Start.” International Journal of Aquatic Research and Education 6 (4). https://doi.org/10.25035/ijare.06.04.09."
-  },
-  {
-    "objectID": "research/dissertation/index.html#data",
-    "href": "research/dissertation/index.html#data",
-    "title": "CAR Brain Network Analysis",
-    "section": "Data",
-    "text": "Data\n\nResting functional MRI BOLD signals (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
+    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nhttps://hnaganob.shinyapps.io/fina-swimming-rankings/"
   },
   {
     "objectID": "portfolio/shiny/sports/nfl-big-data-bowl-2025/index.html",
@@ -385,102 +119,39 @@
     "text": "Minimal R Shiny animation code template developed for a Kaggle competition.\nhttps://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
+    "objectID": "portfolio/shiny/miscellaneous/surface-plot/index.html",
+    "href": "portfolio/shiny/miscellaneous/surface-plot/index.html",
+    "title": "Surface Plot",
     "section": "",
-    "text": "Ph.D. Candidate in Neuroscience & Human Performance (2026 exp)  Indiana University Bloomington\nM.S. in Applied Statistics, Indiana University Bloomington  M.S. in Exercise Physiology, Indiana University Bloomington  B.S. in Exercise Science, Indiana University Bloomington"
+    "text": "Custom 3-dimentional spatial data visualization.\nhttps://hnaganob.shinyapps.io/surface-plot"
   },
   {
-    "objectID": "cv.html#education-1",
-    "href": "cv.html#education-1",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\n2020  Associate Instructor (Neuroscience)  Program in Neuroscience, Indiana University Bloomington\n2019  Adjunct Lecturer (Motor Learning)  Department of Kinesiology, Indiana University Bloomington\n2014 - 2016  Associate Instructor (Statistical Literacy)  Department of Statistics, Indiana University Bloomington\n2013  Teaching Assistant (Statistical Literacy)  Department of Statistics, Indiana University Bloomington\n2009 - 2012  Associate Instructor (Exercise Physiology)  Department of Kinesiology, Indiana University Bloomington"
-  },
-  {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
-    "title": "CV",
-    "section": "Research Experience",
-    "text": "Research Experience\n2017 - 2022  Biostatistics Associate  Biostatistics Consulting Center, Department of Epidemiology and Biostatistics, School of Public Health, Indiana University Bloomington\n2020 - 2021  Research Assistant  The NCAA-DoD Concussion Assessment, Research, and Education (CARE) Consortium  Department of Epidemiology and Biostatistics, School of Public Health, Indiana University\n2014 - 2016  Consulting Associate  Indiana Statistical Consulting Center, Department of Statistics, Indiana University Bloomington\n2007 - 2009  Research Scholar  Counsilman Center for the Science of Swimming, Department of Kinesiology, Indiana University Bloomington"
-  },
-  {
-    "objectID": "research/dissertation/Untitled/index.html",
-    "href": "research/dissertation/Untitled/index.html",
-    "title": "Brain Network Analysis with the Conditional Autoregressive (CAR) Model",
+    "objectID": "portfolio/shiny/miscellaneous/surface-plot/index.html#overview",
+    "href": "portfolio/shiny/miscellaneous/surface-plot/index.html#overview",
+    "title": "Surface Plot",
     "section": "",
-    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
+    "text": "Custom 3-dimentional spatial data visualization.\nhttps://hnaganob.shinyapps.io/surface-plot"
   },
   {
-    "objectID": "research/dissertation/Untitled/index.html#overview",
-    "href": "research/dissertation/Untitled/index.html#overview",
-    "title": "Brain Network Analysis with the Conditional Autoregressive (CAR) Model",
+    "objectID": "blog/post-2/index.html",
+    "href": "blog/post-2/index.html",
+    "title": "Post 2",
     "section": "",
-    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "research/dissertation/Untitled/index.html#data",
-    "href": "research/dissertation/Untitled/index.html#data",
-    "title": "Brain Network Analysis with the Conditional Autoregressive (CAR) Model",
-    "section": "Data",
-    "text": "Data\n\nScaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs, TR \\(=\\) 2s (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
-  },
-  {
-    "objectID": "research/dissertation/Untitled/index.html#brain-network-analysis-with-the-conditional-autoregressive-car-model",
-    "href": "research/dissertation/Untitled/index.html#brain-network-analysis-with-the-conditional-autoregressive-car-model",
-    "title": "CAR Brain Network Analysis",
-    "section": "1. Brain Network Analysis with the Conditional Autoregressive (CAR) Model",
-    "text": "1. Brain Network Analysis with the Conditional Autoregressive (CAR) Model\nI apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis.\nMarkov random field approach with conditional autoregressive (CAR) model on resting fMRI data using spdep and spatialreg packages (Bivand, Millo, and Piras 2021).\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
-  },
-  {
-    "objectID": "research/dissertation/spatial-data-simulation/index.html",
-    "href": "research/dissertation/spatial-data-simulation/index.html",
-    "title": "2. Simulation for Spatially Autocorrelated Data",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "I simulate spatially autocorrelated data using random walk algorithms on both regular graph structures (e.g., circle, cubic lattice, hexagonal lattice) and irregular structures (e.g., brain networks) to understand how topological features influence data behavior. Special attention is given to the role of local clustering (e.g., triads) in shaping random walk dynamics, as these motifs introduce higher-order dependencies that affect spatial diffusion.\nTo assess spatial dependence in graph-based data, I propose a novel framework for null hypothesis testing. Rather than adopting the conventional null hypothesis of no spatial dependency, I argue that the null spatial dependence parameter should be graph-structure-specific. Using a custom random walk simulation algorithm, I estimate the expected spatial autocorrelation under each graph’s topology, thereby defining a meaningful null model for inference.\nThis simulation-based approach is implemented in the drunksc (“Drunk Santa Claus”) R package, which provides tools to generate spatially autocorrelated data, compute graph-specific reference dependence parameters, and facilitate hypothesis testing on arbitrary graphs. The package is under active development and will serve as a foundation for reproducible spatial simulations in network-based research."
+    "text": "Interactive web applications built using R Shiny for data visualization and analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/dissertation/spatial-data-simulation/index.html#overview",
-    "href": "research/dissertation/spatial-data-simulation/index.html#overview",
-    "title": "2. Simulation for Spatially Autocorrelated Data",
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
     "section": "",
-    "text": "I simulate spatially autocorrelated data using random walk algorithms on both regular graph structures (e.g., circle, cubic lattice, hexagonal lattice) and irregular structures (e.g., brain networks) to understand how topological features influence data behavior. Special attention is given to the role of local clustering (e.g., triads) in shaping random walk dynamics, as these motifs introduce higher-order dependencies that affect spatial diffusion.\nTo assess spatial dependence in graph-based data, I propose a novel framework for null hypothesis testing. Rather than adopting the conventional null hypothesis of no spatial dependency, I argue that the null spatial dependence parameter should be graph-structure-specific. Using a custom random walk simulation algorithm, I estimate the expected spatial autocorrelation under each graph’s topology, thereby defining a meaningful null model for inference.\nThis simulation-based approach is implemented in the drunksc (“Drunk Santa Claus”) R package, which provides tools to generate spatially autocorrelated data, compute graph-specific reference dependence parameters, and facilitate hypothesis testing on arbitrary graphs. The package is under active development and will serve as a foundation for reproducible spatial simulations in network-based research."
-  },
-  {
-    "objectID": "research/dissertation/spatial-data-simulation/index.html#references",
-    "href": "research/dissertation/spatial-data-simulation/index.html#references",
-    "title": "2. Simulation for Spatially Autocorrelated Data",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "research/dissertation/car-brain-network-analysis/index.html",
-    "href": "research/dissertation/car-brain-network-analysis/index.html",
-    "title": "CAR Brain Network Analysis",
-    "section": "",
-    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
-  },
-  {
-    "objectID": "research/dissertation/car-brain-network-analysis/index.html#overview",
-    "href": "research/dissertation/car-brain-network-analysis/index.html#overview",
-    "title": "CAR Brain Network Analysis",
-    "section": "",
-    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
-  },
-  {
-    "objectID": "research/dissertation/car-brain-network-analysis/index.html#data",
-    "href": "research/dissertation/car-brain-network-analysis/index.html#data",
-    "title": "CAR Brain Network Analysis",
-    "section": "Data",
-    "text": "Data\n\nScaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs with TR \\(=\\) 2s (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
+    "text": "Interactive web applications built using R Shiny for data visualization and analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/dissertation/negative-spatial-dependence/index.html",
@@ -504,38 +175,122 @@
     "text": "References"
   },
   {
-    "objectID": "research/dissertation.html#references",
-    "href": "research/dissertation.html#references",
+    "objectID": "research/dissertation.html",
+    "href": "research/dissertation.html",
     "title": "Dissertation",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "research/blog/post-2/index.html",
-    "href": "research/blog/post-2/index.html",
-    "title": "Post 2",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas.\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\notintin"
   },
   {
-    "objectID": "research/blog.html",
-    "href": "research/blog.html",
-    "title": "Shiny Web Apps",
+    "objectID": "research/dissertation.html#overview",
+    "href": "research/dissertation.html#overview",
+    "title": "Dissertation",
     "section": "",
-    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas."
+    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas.\n\n\n\n\n\n\n\n\n\n\n\n\nBridging brain function and structure with the conditional autoregressive (CAR) model.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\notintin"
   },
   {
-    "objectID": "research/blog.html#overview",
-    "href": "research/blog.html#overview",
-    "title": "Shiny Web Apps",
+    "objectID": "research/dissertation/car-brain-network-analysis/index.html",
+    "href": "research/dissertation/car-brain-network-analysis/index.html",
+    "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "Tobler’s first law of geography states, “everything is related to everything else, but near things are more related than distant things” (Tobler 1970). I extend this principle to the analysis of the brain. My research lies at the intersection of spatial statistics and network analysis, with a primary focus on brain connectivity.\nWith the bold assumption that spatial structure itself encodes information about data behavior within the space, I analyze network data by focusing on neighborhood dependencies. More specifically, I use a Markov random field approach to address Tobler’s principle on single-subject brain network data.\nMy work is divided into the following three main areas."
+    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
   },
   {
-    "objectID": "research/blog/post-1/index.html",
-    "href": "research/blog/post-1/index.html",
-    "title": "Interpretation of Negative Spatial Dependence",
+    "objectID": "research/dissertation/car-brain-network-analysis/index.html#overview",
+    "href": "research/dissertation/car-brain-network-analysis/index.html#overview",
+    "title": "CAR Brain Network Analysis",
+    "section": "",
+    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\nA corresponding R Shiny interactive web application is under development. It computes the CAR model summary at each time point of fMRI BOLD signals, and tracks the dynamics of functional synchronization over time. The app will be further developed to allow users to upload their own functional and structural data for spatial model-based analysis."
+  },
+  {
+    "objectID": "research/dissertation/car-brain-network-analysis/index.html#data",
+    "href": "research/dissertation/car-brain-network-analysis/index.html#data",
+    "title": "CAR Brain Network Analysis",
+    "section": "Data",
+    "text": "Data\n\nScaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs with TR \\(=\\) 2s (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
+  },
+  {
+    "objectID": "blog/post-1/index.html",
+    "href": "blog/post-1/index.html",
+    "title": "Post 1",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio/shiny/miscellaneous/mickey-mouse/index.html",
+    "href": "portfolio/shiny/miscellaneous/mickey-mouse/index.html",
+    "title": "Mickey Mouse",
+    "section": "",
+    "text": "My first Shiny app.\nhttps://hnaganob.shinyapps.io/mickey-mouse/\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:10]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\""
+  },
+  {
+    "objectID": "portfolio/shiny/miscellaneous/mickey-mouse/index.html#overview",
+    "href": "portfolio/shiny/miscellaneous/mickey-mouse/index.html#overview",
+    "title": "Mickey Mouse",
+    "section": "",
+    "text": "My first Shiny app.\nhttps://hnaganob.shinyapps.io/mickey-mouse/\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:10]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\""
+  },
+  {
+    "objectID": "portfolio/shiny/sports/field-hockey/index.html",
+    "href": "portfolio/shiny/sports/field-hockey/index.html",
+    "title": "Field Hockey Animation",
+    "section": "",
+    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nhttps://hnaganob.shinyapps.io/field-hockey/"
+  },
+  {
+    "objectID": "portfolio/shiny/sports/field-hockey/index.html#overview",
+    "href": "portfolio/shiny/sports/field-hockey/index.html#overview",
+    "title": "Field Hockey Animation",
+    "section": "",
+    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nhttps://hnaganob.shinyapps.io/field-hockey/"
+  },
+  {
+    "objectID": "portfolio/shiny/brain/brain-network/index.html",
+    "href": "portfolio/shiny/brain/brain-network/index.html",
+    "title": "Brain Network",
+    "section": "",
+    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/brain-network/\nIt aims to explain how the brain functions as a system through its structural network."
+  },
+  {
+    "objectID": "portfolio/shiny/brain/brain-network/index.html#overview",
+    "href": "portfolio/shiny/brain/brain-network/index.html#overview",
+    "title": "Brain Network",
+    "section": "",
+    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/brain-network/\nIt aims to explain how the brain functions as a system through its structural network."
+  },
+  {
+    "objectID": "portfolio/shiny/brain/brain-network/index.html#data",
+    "href": "portfolio/shiny/brain/brain-network/index.html#data",
+    "title": "Brain Network",
+    "section": "Data",
+    "text": "Data\n\nResting functional MRI BOLD signals (240 x 68)\nDiffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)"
+  },
+  {
+    "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html",
+    "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html",
+    "title": "CAR Dependence Parameter Diagnostics",
+    "section": "",
+    "text": "It computes the graph-specific range of conditiona autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/"
+  },
+  {
+    "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#overview",
+    "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#overview",
+    "title": "CAR Dependence Parameter Diagnostics",
+    "section": "",
+    "text": "It computes the graph-specific range of conditiona autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/"
+  },
+  {
+    "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#aims",
+    "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#aims",
+    "title": "CAR Dependence Parameter Diagnostics",
+    "section": "Aims",
+    "text": "Aims\n\nDemonstrates how triadic structures influence spatial autocorrelation patterns by cubic and hexagonal lattices."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Shiny Web Apps\nInteractive web applications built using R Shiny for data visualization and analysis.\n\n\nStatistical Consulting\nData analysis, modeling, and statistical insights provided through consulting projects."
   }
 ]

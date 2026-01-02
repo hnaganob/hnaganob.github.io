@@ -34,16 +34,5 @@
       "/research/dissertation/spatial-data-simulation/index.html",
       "/research/dissertation/negative-spatial-dependence/index.html"
     ]
-  },
-  {
-    "listing": "/portfolio.html",
-    "items": [
-      "/blog/post-1/index.html",
-      "/blog/post-2/index.html"
-    ]
-  },
-  {
-    "listing": "/research/blog.html",
-    "items": []
   }
 ]
