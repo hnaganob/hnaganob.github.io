@@ -1,6 +1,5 @@
 ---
 title: "Statistical Consulting"
-format: html
 page-layout: full
 title-block-banner: true
 ---

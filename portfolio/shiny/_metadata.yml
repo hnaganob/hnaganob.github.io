@@ -1,6 +1,6 @@
 # options specified here will apply to all posts in this folder
 
-# freeze computational output
+# freeze computational output (avoids re-running code chunks)
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
 
@@ -10,3 +10,9 @@ title-block-banner: true
 # Table of contents
 toc: true
 toc-title: "Outline"
+
+# Page layout
+page-layout: full
+
+# Show previous/next navigation links
+page-navigation: true

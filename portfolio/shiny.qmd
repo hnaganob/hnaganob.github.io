@@ -8,7 +8,7 @@ listing:
   type: grid
   grid-columns: 3
   image-height: 200px
-  categories: false
+  categories: true
   sort-ui: false
   filter-ui: false
 - id: sports
@@ -17,7 +17,7 @@ listing:
   type: grid
   grid-columns: 3
   image-height: 200px
-  categories: false
+  categories: true
   sort-ui: false
   filter-ui: false
 - id: miscellaneous
@@ -26,19 +26,15 @@ listing:
   type: grid
   grid-columns: 3
   image-height: 200px
-  categories: false
+  categories: true
   sort-ui: false
   filter-ui: false
-  
+
 page-layout: full
 title-block-banner: true
-
 page-navigation: true
 toc: true
-
-format: 
-  html:
-    link-external-newwindow: false
+toc-title: "Outline"
 ---
 
 ## Brain Network
@@ -46,10 +42,12 @@ format:
 ::: {#brain}
 :::
 
+
 ## Sports
 
 ::: {#sports}
 :::
+
 
 ## Miscellaneous
 

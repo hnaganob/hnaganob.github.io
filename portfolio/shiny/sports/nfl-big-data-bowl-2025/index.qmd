@@ -1,10 +1,9 @@
 ---
 title: "NFL Big Data Bowl 2025"
 description: "Minimal R Shiny animation code template developed for a Kaggle competition."
+categories: [Animation]
 order: 3
 image: "image.png"
-page-navigation: true
-toc: true
 ---
 
 ## Overview
@@ -15,4 +14,4 @@ Minimal R Shiny animation code template developed for a Kaggle competition.
 
 <br>
 
-[![](image.png)](https://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/)
+[![](image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/)

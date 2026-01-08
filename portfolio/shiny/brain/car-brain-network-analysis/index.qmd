@@ -1,10 +1,9 @@
 ---
 title: "CAR Brain Network Analysis"
-description: "Markov random field approach on resting-state fMRI and structural brain network data."
+description: "Integration of brain functional and structural networks using a conditional autoregressive model."
+categories: [Network, CAR]
 order: 2
 image: image.png
-page-navigation: true
-toc: true
 ---
 
 ## Overview
@@ -21,6 +20,10 @@ Brain network analysis with the conditional autoregressive (CAR) model using `sp
 -   Scaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs with TR $=$ 2s (240 x 68)
 -   Diffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)
 
-<br> [![](image.png)](https://hnaganob.shinyapps.io/car-brain-network-analysis/) <br>
+<br>
+
+[![](image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/car-brain-network-analysis/)
+
+<br>
 
 ## References

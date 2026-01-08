@@ -1,11 +1,7 @@
 ---
 title: "CV"
-
-format: html
-
 page-layout: full
 title-block-banner: true
-
 page-navigation: true
 toc: true
 toc-title: "Outline"
@@ -13,31 +9,56 @@ toc-title: "Outline"
 
 ## Education
 
-Ph.D. Candidate in Neuroscience & Human Performance (2026 exp) <br> Indiana University Bloomington
+Ph.D. Candidate in Neuroscience & Human Performance (2026 exp) <br> 
+Indiana University Bloomington
 
-M.S. in Applied Statistics, Indiana University Bloomington <br> M.S. in Exercise Physiology, Indiana University Bloomington <br> B.S. in Exercise Science, Indiana University Bloomington
+M.S. in Applied Statistics, Indiana University Bloomington <br> 
+M.S. in Exercise Physiology, Indiana University Bloomington <br> 
+B.S. in Exercise Science, Indiana University Bloomington
+
 
 ## Research Experience
 
-2017 - 2022 <br> Biostatistics Associate <br> Biostatistics Consulting Center, Department of Epidemiology and Biostatistics, School of Public Health, Indiana University Bloomington
+2017 - 2022 <br> 
+Biostatistics Associate <br> 
+Biostatistics Consulting Center, Department of Epidemiology and Biostatistics, School of Public Health, Indiana University Bloomington
 
-2020 - 2021 <br> Research Assistant <br> The NCAA-DoD Concussion Assessment, Research, and Education (CARE) Consortium <br> Department of Epidemiology and Biostatistics, School of Public Health, Indiana University
+2020 - 2021 <br> 
+Research Assistant <br> 
+The NCAA-DoD Concussion Assessment, Research, and Education (CARE) Consortium <br> 
+Department of Epidemiology and Biostatistics, School of Public Health, Indiana University
 
-2014 - 2016 <br> Consulting Associate <br> Indiana Statistical Consulting Center, Department of Statistics, Indiana University Bloomington
+2014 - 2016 <br> 
+Consulting Associate <br> 
+Indiana Statistical Consulting Center, Department of Statistics, Indiana University Bloomington
 
-2007 - 2009 <br> Research Scholar <br> Counsilman Center for the Science of Swimming, Department of Kinesiology, Indiana University Bloomington
+2007 - 2009 <br> 
+Research Scholar <br> 
+Counsilman Center for the Science of Swimming, Department of Kinesiology, Indiana University Bloomington
+
 
 ## Teaching
 
-2020 <br> Associate Instructor (Neuroscience) <br> Program in Neuroscience, Indiana University Bloomington
+2020 <br> 
+Associate Instructor (Neuroscience) <br> 
+Program in Neuroscience, Indiana University Bloomington
 
-2019 <br> Adjunct Lecturer (Motor Learning) <br> Department of Kinesiology, Indiana University Bloomington
+2019 <br> 
+Adjunct Lecturer (Motor Learning) <br> 
+Department of Kinesiology, Indiana University Bloomington
 
-2014 - 2016 <br> Associate Instructor (Statistical Literacy) <br> Department of Statistics, Indiana University Bloomington
+2014 - 2016 <br> 
+Associate Instructor (Statistical Literacy) <br> 
+epartment of Statistics, Indiana University Bloomington
 
-2013 <br> Teaching Assistant (Statistical Literacy) <br> Department of Statistics, Indiana University Bloomington
+2013 <br> 
+Teaching Assistant (Statistical Literacy) <br> 
+Department of Statistics, Indiana University Bloomington
 
-2009 - 2012 <br> Associate Instructor (Exercise Physiology) <br> Department of Kinesiology, Indiana University Bloomington
+2009 - 2012 <br> 
+Associate Instructor (Exercise Physiology) <br> 
+Department of Kinesiology, Indiana University Bloomington
+
 
 ## Publications
 
