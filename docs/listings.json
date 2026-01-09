@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/research/dissertation.html",
+    "items": [
+      "/research/dissertation/car-brain-network-analysis/index.html",
+      "/research/dissertation/spatial-data-simulation/index.html",
+      "/research/dissertation/negative-spatial-dependence/index.html"
+    ]
+  },
+  {
     "listing": "/portfolio/shiny.html",
     "items": [
       "/portfolio/shiny/brain/brain-network/index.html",
@@ -10,14 +18,6 @@
       "/portfolio/shiny/sports/nfl-big-data-bowl-2025/index.html",
       "/portfolio/shiny/miscellaneous/mickey-mouse/index.html",
       "/portfolio/shiny/miscellaneous/surface-plot/index.html"
-    ]
-  },
-  {
-    "listing": "/research/dissertation.html",
-    "items": [
-      "/research/dissertation/car-brain-network-analysis/index.html",
-      "/research/dissertation/spatial-data-simulation/index.html",
-      "/research/dissertation/negative-spatial-dependence/index.html"
     ]
   }
 ]
