@@ -1,6 +1,6 @@
 ---
 title: "Hiroki Naganobori"
-subtitle: "Biostatistician | Data Scientist"
+subtitle: "Statistician | Data Scientist"
 image: profile.jpg
 page-layout: full
 about:
