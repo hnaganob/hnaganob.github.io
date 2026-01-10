@@ -1,7 +1,7 @@
 ---
 title: "Surface Plot"
 description: "Custom 3-dimentional spatial data visualization."
-categories: [plot3D]
+categories: [Plot]
 order: 2
 image: image.png
 ---

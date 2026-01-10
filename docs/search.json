@@ -291,6 +291,20 @@
     "href": "portfolio/shiny.html#miscellaneous",
     "title": "Shiny Web Apps",
     "section": "Miscellaneous",
-    "text": "Miscellaneous\n\n\n\n\n\n\n\n\n\n\nMickey Mouse\n\n\nMy first Shiny app.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSurface Plot\n\n\n\nplot3D\n\n\n\nCustom 3-dimentional spatial data visualization.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Miscellaneous\n\n\n\n\n\n\n\n\n\n\nMickey Mouse\n\n\nMy first Shiny app.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSurface Plot\n\n\n\nPlot\n\n\n\nCustom 3-dimentional spatial data visualization.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID Partnerships\n\n\n\nNetwork\n\n\nEDA\n\n\n\nPartnership behaviors on COVID-19 response among organizations in Indiana.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio/shiny/miscellaneous/covid-partnerships/index.html",
+    "href": "portfolio/shiny/miscellaneous/covid-partnerships/index.html",
+    "title": "COVID Partnerships",
+    "section": "",
+    "text": "Development of partnership network structure based on questionnaire data.\nhttps://hnaganob.shinyapps.io/covid-partnerships/\nStatistical consulting project conducted in collaboration with:\nPriscilla A. Barnes, Ph.D.  Associate Professor  Department of Applied Health Science, School of Public Health, Indiana University Bloomington"
+  },
+  {
+    "objectID": "portfolio/shiny/miscellaneous/covid-partnerships/index.html#overview",
+    "href": "portfolio/shiny/miscellaneous/covid-partnerships/index.html#overview",
+    "title": "COVID Partnerships",
+    "section": "",
+    "text": "Development of partnership network structure based on questionnaire data.\nhttps://hnaganob.shinyapps.io/covid-partnerships/\nStatistical consulting project conducted in collaboration with:\nPriscilla A. Barnes, Ph.D.  Associate Professor  Department of Applied Health Science, School of Public Health, Indiana University Bloomington"
   }
 ]

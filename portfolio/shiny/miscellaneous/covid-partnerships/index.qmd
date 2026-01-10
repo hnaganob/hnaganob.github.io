@@ -1,0 +1,24 @@
+---
+title: "COVID Partnerships"
+description: "Partnership behaviors on COVID-19 response among organizations in Indiana."
+categories: [Network, EDA]
+order: 3
+image: images/thumbnail.png
+---
+
+## Overview
+
+Development of partnership network structure based on questionnaire data.
+
+<https://hnaganob.shinyapps.io/covid-partnerships/>
+
+Statistical consulting project conducted in collaboration with:
+
+**Priscilla A. Barnes, Ph.D.** <br>
+Associate Professor <br>
+Department of Applied Health Science, School of Public Health, Indiana University Bloomington
+
+
+<br>
+
+[![](image.png){width="90%" fig-align="center"}](https://hnaganob.shinyapps.io/covid-partnerships/)
