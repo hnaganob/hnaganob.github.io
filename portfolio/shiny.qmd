@@ -7,6 +7,7 @@ listing:
   sort: "order"
   type: grid
   grid-columns: 3
+  page-size: 3
   image-height: 200px
   categories: true
   sort-ui: false
@@ -16,6 +17,7 @@ listing:
   sort: "order"
   type: grid
   grid-columns: 3
+  page-size: 3
   image-height: 200px
   categories: true
   sort-ui: false
@@ -25,6 +27,7 @@ listing:
   sort: "order"
   type: grid
   grid-columns: 3
+  page-size: 3
   image-height: 200px
   categories: true
   sort-ui: false

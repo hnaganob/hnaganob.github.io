@@ -81,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
@@ -286,7 +287,7 @@ window.Quarto = {
   <li><a href="#miscellaneous" id="toc-miscellaneous" class="nav-link" data-scroll-target="#miscellaneous">Miscellaneous</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="QW5pbWF0aW9u">Animation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q0FS">CAR <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RURB">EDA <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TmV0d29yaw==">Network <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UGxvdA==">Plot <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(10)</span></div><div class="category" data-category="QW5pbWF0aW9u">Animation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q0FS">CAR <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RURB">EDA <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TmV0d29yaw==">Network <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UGxvdA==">Plot <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZHJ1bmtzYw==">drunksc <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -388,10 +389,46 @@ Diagnosis of graph-specific spatial autocorrelation in the Markov random field m
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="3" data-categories="TmV0d29yayUyQ0NBUiUyQ2RydW5rc2M=" data-listing-file-modified-sort="1768834332397" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="../portfolio/shiny/brain/drunk-santa-claus/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="../portfolio/shiny/brain/drunk-santa-claus/images/thumbnail.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Drunk Santa Claus (<code>drunksc</code>)
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('TmV0d29yaw=='); return false;">
+Network
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q0FS'); return false;">
+CAR
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZHJ1bmtzYw=='); return false;">
+drunksc
+</div>
+</div>
+<div class="card-text listing-description">
+Simulation of graph-specific intrinsic spatially autocorrelated data.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="brain-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 </section>
 <section id="sports" class="level2">

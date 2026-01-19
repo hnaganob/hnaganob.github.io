@@ -1,0 +1,21 @@
+---
+title: "Drunk Santa Claus (`drunksc`)"
+description: "Simulation of graph-specific intrinsic spatially autocorrelated data."
+categories: [Network, CAR, drunksc]
+order: 4
+image: images/thumbnail.png
+---
+
+## Overview
+
+<!-- <https://hnaganob.shinyapps.io/drunk-santa-claus/> -->
+
+<br>
+
+[![](images/thumbnail.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/drunk-santa-claus/)
+
+<br>
+
+
+
+## References
