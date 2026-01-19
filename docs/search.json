@@ -284,7 +284,7 @@
     "href": "portfolio/shiny.html#sports",
     "title": "Shiny Web Apps",
     "section": "Sports",
-    "text": "Sports\n\n\n\n\n\n\n\n\n\n\nFINA Swimming Rankings\n\n\n\nEDA\n\n\n\nDistribution of world top 100 swimmers for each event from 1990 to 2014.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Hockey Animation\n\n\n\nAnimation\n\n\nNetwork\n\n\n\nPlayer activity animation using Polar Team Pro GPS tracking data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNFL Big Data Bowl 2025\n\n\n\nAnimation\n\n\n\nMinimal R Shiny animation code template developed for a Kaggle competition.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Sports\n\n\n\n\n\n\n\n\n\n\nFINA Swimming Rankings\n\n\n\nEDA\n\n\n\nDistribution of world top 100 swimmers for each event from 1990 to 2014.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Hockey Animation\n\n\n\nAnimation\n\n\nNetwork\n\n\n\nPlayer activity animation using Polar Team Pro GPS tracking data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNFL Big Data Bowl 2025\n\n\n\nAnimation\n\n\n\nMinimal R Shiny animation code template developed for a Kaggle competition.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFootball Clustered Head Impact Network\n\n\n\nNetwork\n\n\nEDA\n\n\n\nExploration of head-to-head collisions from accelerometer data.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/shiny.html#miscellaneous",
@@ -341,5 +341,19 @@
     "title": "Simulation of Graph-Specific Spatially Autocorrelated Data",
     "section": "Related Work",
     "text": "Related Work\nA corresponding R Shiny interactive web application is under development.\nDrunk Santa Claus\nAlso, this simulation-based approach is implemented in the drunksc (“Drunk Santa Claus”) R package, which provides tools to generate spatially autocorrelated data, compute graph-specific reference dependence parameters, and facilitate hypothesis testing on arbitrary graphs. The package is under active development and will serve as a foundation for reproducible spatial simulations in network-based research."
+  },
+  {
+    "objectID": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html",
+    "href": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html",
+    "title": "Football Clustered Head Impact Network",
+    "section": "",
+    "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nhttps://hnaganob.shinyapps.io/football-clustered-head-impact-network/"
+  },
+  {
+    "objectID": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html#overview",
+    "href": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html#overview",
+    "title": "Football Clustered Head Impact Network",
+    "section": "",
+    "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nhttps://hnaganob.shinyapps.io/football-clustered-head-impact-network/"
   }
 ]

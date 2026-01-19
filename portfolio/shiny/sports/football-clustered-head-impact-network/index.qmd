@@ -1,0 +1,17 @@
+---
+title: "Football Clustered Head Impact Network"
+description: "Exploration of head-to-head collisions from accelerometer data."
+categories: [Network, EDA]
+order: 4
+image: "images/thumbnail.png"
+---
+
+## Overview
+
+Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.
+
+<https://hnaganob.shinyapps.io/football-clustered-head-impact-network/>
+
+<br>
+
+[![](images/image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/football-clustered-head-impact-network/)
