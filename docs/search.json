@@ -355,5 +355,12 @@
     "title": "Football Clustered Head Impact Network",
     "section": "",
     "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nhttps://hnaganob.shinyapps.io/football-clustered-head-impact-network/"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "name  \n email  \n message\n\n\nSend"
   }
 ]

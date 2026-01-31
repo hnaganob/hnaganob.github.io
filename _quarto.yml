@@ -25,6 +25,9 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/hnaganob/
         target: _blank
+      - icon: envelope
+        text: "\u200B"
+        href: contact.qmd
 
 format: 
   html:
