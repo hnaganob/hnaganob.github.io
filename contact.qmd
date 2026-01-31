@@ -1,31 +1,19 @@
 ---
 title: "Contact"
-format: html
 page-layout: full
 title-block-banner: true
 ---
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form 
-  action="https://formspree.io/f/xnjjaybd" 
-  method="POST"
->
+<form action="https://formspree.io/f/xnjjaybd" method="POST">
 
   <label>
     name<br>
-    <input 
-      type="name" 
-      name="name" 
-      required>
+    <input type="name" name="name" required>
   </label>
   
   <label>
     email<br>
-    <input 
-      type="email" 
-      name="email" 
-      placeholder="your@email.com"
-      required>
+    <input type="email" name="email" placeholder="your@email.com" required>
   </label>
 
   <label>
@@ -34,4 +22,5 @@ title-block-banner: true
   </label>
 
   <button type="submit">Send</button>
+  
 </form>
