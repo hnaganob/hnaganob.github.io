@@ -8,7 +8,7 @@ image: image.png
 
 ## Overview
 
-Brain network analysis with the conditional autoregressive (CAR) model using `spdep` and `spatialreg` packages [@Bivand2021].
+Brain network analysis with the conditional autoregressive (CAR) model using `spdep` [@Bivand2002] and `spatialreg` [@Bivand2019] packages.
 
 <https://hnaganob.shinyapps.io/car-brain-network-analysis/>
 

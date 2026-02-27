@@ -179,14 +179,14 @@
     "href": "research/dissertation/car-brain-network-analysis/index.html",
     "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter."
+    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages in R, I quantify the level of spatial synchronization through a single spatial dependence parameter."
   },
   {
     "objectID": "research/dissertation/car-brain-network-analysis/index.html#overview",
     "href": "research/dissertation/car-brain-network-analysis/index.html#overview",
     "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep and spatialreg packages in R (Bivand, Millo, and Piras 2021), I quantify the level of spatial synchronization through a single spatial dependence parameter."
+    "text": "I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages in R, I quantify the level of spatial synchronization through a single spatial dependence parameter."
   },
   {
     "objectID": "research/dissertation/car-brain-network-analysis/index.html#data",
@@ -249,14 +249,14 @@
     "href": "portfolio/shiny/brain/car-brain-network-analysis/index.html",
     "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep and spatialreg packages (Bivand, Millo, and Piras 2021).\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
+    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
   },
   {
     "objectID": "portfolio/shiny/brain/car-brain-network-analysis/index.html#overview",
     "href": "portfolio/shiny/brain/car-brain-network-analysis/index.html#overview",
     "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep and spatialreg packages (Bivand, Millo, and Piras 2021).\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
+    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
   },
   {
     "objectID": "portfolio/shiny/brain/car-brain-network-analysis/index.html#data",

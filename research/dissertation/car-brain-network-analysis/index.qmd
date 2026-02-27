@@ -8,7 +8,7 @@ image: images/thumbnail.png
 
 ## Overview
 
-I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the `spdep` and `spatialreg` packages in R [@Bivand2021], I quantify the level of spatial synchronization through a single spatial dependence parameter.
+I apply the CAR model, a Markov random field model with Gaussian data, to analyze functional magnetic resonance imaging (fMRI) blood-oxygenation-level-dependent (BOLD) signals on a structurally defined brain network. Using the `spdep` [@Bivand2002] and `spatialreg`  [@Bivand2019] packages in R, I quantify the level of spatial synchronization through a single spatial dependence parameter.
 
 ## Data
 
