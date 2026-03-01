@@ -18,6 +18,8 @@ website:
             href: research/dissertation.qmd
       - text: "CV"
         file: cv.qmd
+      - text: "Human Performance"
+        file: human-performance.qmd        
     right:
       - icon: github
         href: https://github.com/hnaganob/
