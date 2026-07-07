@@ -10,7 +10,7 @@ image: images/thumbnail.png
 
 Development of partnership network structure based on questionnaire data.
 
-<https://hnaganob.shinyapps.io/covid-partnerships/>
+[Launch App](https://hnaganob.shinyapps.io/covid-partnerships/){.btn .btn-primary .rounded-pill role="button"}
 
 Statistical consulting project conducted in collaboration with:
 

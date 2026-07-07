@@ -10,7 +10,7 @@ image: "image.png"
 
 Player activity animation using Polar Team Pro GPS tracking data.
 
-<https://hnaganob.shinyapps.io/field-hockey/>
+[Launch App](https://hnaganob.shinyapps.io/field-hockey/){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 

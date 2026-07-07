@@ -10,7 +10,7 @@ image: "image.png"
 
 Distribution of world top 100 swimmers for each event from 1990 to 2014.
 
-<https://hnaganob.shinyapps.io/fina-swimming-rankings/>
+[Launch App](https://hnaganob.shinyapps.io/fina-swimming-rankings/){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 

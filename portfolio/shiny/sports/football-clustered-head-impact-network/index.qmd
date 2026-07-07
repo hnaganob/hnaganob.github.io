@@ -10,7 +10,7 @@ image: "images/thumbnail.png"
 
 Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.
 
-<https://hnaganob.shinyapps.io/football-clustered-head-impact-network/>
+[Launch App](https://hnaganob.shinyapps.io/football-clustered-head-impact-network/){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 

@@ -10,7 +10,7 @@ image: "image.png"
 
 Minimal R Shiny animation code template developed for a Kaggle competition.
 
-<https://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/>
+[Launch App](https://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 

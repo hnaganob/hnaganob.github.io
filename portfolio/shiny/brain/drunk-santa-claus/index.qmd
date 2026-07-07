@@ -8,11 +8,11 @@ image: images/thumbnail.png
 
 ## Overview
 
-<!-- <https://hnaganob.shinyapps.io/drunk-santa-claus/> -->
+[Launch App](https://hnaganob-drunk-santa-claus.share.connect.posit.cloud){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 
-[![](images/thumbnail.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/drunk-santa-claus/)
+[![](images/thumbnail.png){width="80%" fig-align="center"}](https://hnaganob-drunk-santa-claus.share.connect.posit.cloud)
 
 <br>
 

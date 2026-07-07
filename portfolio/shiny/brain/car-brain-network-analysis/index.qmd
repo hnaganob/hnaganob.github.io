@@ -10,7 +10,7 @@ image: image.png
 
 Brain network analysis with the conditional autoregressive (CAR) model using `spdep` [@Bivand2002] and `spatialreg` [@Bivand2019] packages.
 
-<https://hnaganob.shinyapps.io/car-brain-network-analysis/>
+[Launch App](https://hnaganob-car-dependence-parameter-diagnostics.share.connect.posit.cloud){.btn .btn-primary .rounded-pill role="button"}
 
 -   Displays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.
 -   Tracks the dynamics of functional synchronization over a given spatial structure during rest.

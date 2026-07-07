@@ -10,7 +10,7 @@ image: "image.png"
 
 The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.
 
-<https://hnaganob.shinyapps.io/brain-network/>
+[Launch App](https://hnaganob.shinyapps.io/brain-network/){.btn .btn-primary .rounded-pill role="button"}
 
 It aims to explain how the brain functions as a system through its structural network.
 
@@ -22,5 +22,5 @@ It aims to explain how the brain functions as a system through its structural ne
 
 ## Data
 
--   Scaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs with TR $=$ 2s (240 x 68)
--   Diffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)
+- Scaled (z-scored) resting-state fMRI BOLD signals from 68 ROIs with TR $=$ 2s (240 x 68)
+- Diffusion Tensor Imaging (DTI) white matter tract structure (68 x 68)

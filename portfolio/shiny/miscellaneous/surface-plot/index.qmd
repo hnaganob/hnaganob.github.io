@@ -10,7 +10,7 @@ image: image.png
 
 Custom 3-dimentional spatial data visualization.
 
-<https://hnaganob.shinyapps.io/surface-plot/>
+[Launch App](https://hnaganob.shinyapps.io/surface-plot/){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 

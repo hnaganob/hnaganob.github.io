@@ -60,28 +60,28 @@
     "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html",
     "title": "CAR Dependence Parameter Diagnostics",
     "section": "",
-    "text": "The app computes the graph-specific admissible range of conditiona autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/\nIt demonstrates how triadic structures influence spatial autocorrelation patterns by cubic and hexagonal lattices."
+    "text": "The app computes the graph-specific admissible range of conditional autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nLaunch App\nIt demonstrates how triadic structures influence spatial autocorrelation patterns by cubic and hexagonal lattices."
   },
   {
     "objectID": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#overview",
     "href": "portfolio/shiny/brain/car-dependence-parameter-diagnostics/index.html#overview",
     "title": "CAR Dependence Parameter Diagnostics",
     "section": "",
-    "text": "The app computes the graph-specific admissible range of conditiona autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nhttps://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/\nIt demonstrates how triadic structures influence spatial autocorrelation patterns by cubic and hexagonal lattices."
+    "text": "The app computes the graph-specific admissible range of conditional autoregressive (CAR) model spatial dependence parameters and displays model-based correlations between a selected seed node and all other nodes.\nLaunch App\nIt demonstrates how triadic structures influence spatial autocorrelation patterns by cubic and hexagonal lattices."
   },
   {
     "objectID": "portfolio/shiny/brain/brain-network/index.html",
     "href": "portfolio/shiny/brain/brain-network/index.html",
     "title": "Brain Network",
     "section": "",
-    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/brain-network/\nIt aims to explain how the brain functions as a system through its structural network."
+    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nLaunch App\nIt aims to explain how the brain functions as a system through its structural network."
   },
   {
     "objectID": "portfolio/shiny/brain/brain-network/index.html#overview",
     "href": "portfolio/shiny/brain/brain-network/index.html#overview",
     "title": "Brain Network",
     "section": "",
-    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nhttps://hnaganob.shinyapps.io/brain-network/\nIt aims to explain how the brain functions as a system through its structural network."
+    "text": "The app visualizes brain network data and illustrates the foundations of Gaussian Markov random field model construction, including structural network formation, neighborhood-only dependencies, and spectral clustering.\nLaunch App\nIt aims to explain how the brain functions as a system through its structural network."
   },
   {
     "objectID": "portfolio/shiny/brain/brain-network/index.html#data",
@@ -95,28 +95,28 @@
     "href": "portfolio/shiny/sports/field-hockey/index.html",
     "title": "Field Hockey Animation",
     "section": "",
-    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nhttps://hnaganob.shinyapps.io/field-hockey/"
+    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/field-hockey/index.html#overview",
     "href": "portfolio/shiny/sports/field-hockey/index.html#overview",
     "title": "Field Hockey Animation",
     "section": "",
-    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nhttps://hnaganob.shinyapps.io/field-hockey/"
+    "text": "Player activity animation using Polar Team Pro GPS tracking data.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/miscellaneous/mickey-mouse/index.html",
     "href": "portfolio/shiny/miscellaneous/mickey-mouse/index.html",
     "title": "Mickey Mouse",
     "section": "",
-    "text": "My first Shiny app.\nhttps://hnaganob.shinyapps.io/mickey-mouse/\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:12]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\"   \"aquamarine3\"   \"aquamarine4\""
+    "text": "My first Shiny app.\n\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:12]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\"   \"aquamarine3\"   \"aquamarine4\""
   },
   {
     "objectID": "portfolio/shiny/miscellaneous/mickey-mouse/index.html#overview",
     "href": "portfolio/shiny/miscellaneous/mickey-mouse/index.html#overview",
     "title": "Mickey Mouse",
     "section": "",
-    "text": "My first Shiny app.\nhttps://hnaganob.shinyapps.io/mickey-mouse/\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:12]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\"   \"aquamarine3\"   \"aquamarine4\""
+    "text": "My first Shiny app.\n\nIt enables a quick check for R color names colors.\n\n\ncolors()[1:12]\n\n [1] \"white\"         \"aliceblue\"     \"antiquewhite\"  \"antiquewhite1\"\n [5] \"antiquewhite2\" \"antiquewhite3\" \"antiquewhite4\" \"aquamarine\"   \n [9] \"aquamarine1\"   \"aquamarine2\"   \"aquamarine3\"   \"aquamarine4\""
   },
   {
     "objectID": "research/dissertation/negative-spatial-dependence/index.html",
@@ -207,56 +207,56 @@
     "href": "portfolio/shiny/miscellaneous/surface-plot/index.html",
     "title": "Surface Plot",
     "section": "",
-    "text": "Custom 3-dimentional spatial data visualization.\nhttps://hnaganob.shinyapps.io/surface-plot/"
+    "text": "Custom 3-dimentional spatial data visualization.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/miscellaneous/surface-plot/index.html#overview",
     "href": "portfolio/shiny/miscellaneous/surface-plot/index.html#overview",
     "title": "Surface Plot",
     "section": "",
-    "text": "Custom 3-dimentional spatial data visualization.\nhttps://hnaganob.shinyapps.io/surface-plot/"
+    "text": "Custom 3-dimentional spatial data visualization.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/nfl-big-data-bowl-2025/index.html",
     "href": "portfolio/shiny/sports/nfl-big-data-bowl-2025/index.html",
     "title": "NFL Big Data Bowl 2025",
     "section": "",
-    "text": "Minimal R Shiny animation code template developed for a Kaggle competition.\nhttps://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/"
+    "text": "Minimal R Shiny animation code template developed for a Kaggle competition.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/nfl-big-data-bowl-2025/index.html#overview",
     "href": "portfolio/shiny/sports/nfl-big-data-bowl-2025/index.html#overview",
     "title": "NFL Big Data Bowl 2025",
     "section": "",
-    "text": "Minimal R Shiny animation code template developed for a Kaggle competition.\nhttps://hnaganob.shinyapps.io/nfl-big-data-bowl-2025/"
+    "text": "Minimal R Shiny animation code template developed for a Kaggle competition.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/swim-rank/index.html",
     "href": "portfolio/shiny/sports/swim-rank/index.html",
     "title": "FINA Swimming Rankings",
     "section": "",
-    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nhttps://hnaganob.shinyapps.io/fina-swimming-rankings/"
+    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/swim-rank/index.html#overview",
     "href": "portfolio/shiny/sports/swim-rank/index.html#overview",
     "title": "FINA Swimming Rankings",
     "section": "",
-    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nhttps://hnaganob.shinyapps.io/fina-swimming-rankings/"
+    "text": "Distribution of world top 100 swimmers for each event from 1990 to 2014.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/brain/car-brain-network-analysis/index.html",
     "href": "portfolio/shiny/brain/car-brain-network-analysis/index.html",
     "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
+    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages.\nLaunch App\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
   },
   {
     "objectID": "portfolio/shiny/brain/car-brain-network-analysis/index.html#overview",
     "href": "portfolio/shiny/brain/car-brain-network-analysis/index.html#overview",
     "title": "CAR Brain Network Analysis",
     "section": "",
-    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages.\nhttps://hnaganob.shinyapps.io/car-brain-network-analysis/\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
+    "text": "Brain network analysis with the conditional autoregressive (CAR) model using spdep (Bivand 2002) and spatialreg (Bivand and Piras 2019) packages.\nLaunch App\n\nDisplays BOLD signal data and CAR model results with the inferred spatial dependence parameter at each time point.\nTracks the dynamics of functional synchronization over a given spatial structure during rest."
   },
   {
     "objectID": "portfolio/shiny/brain/car-brain-network-analysis/index.html#data",
@@ -298,28 +298,28 @@
     "href": "portfolio/shiny/miscellaneous/covid-partnerships/index.html",
     "title": "COVID Partnerships",
     "section": "",
-    "text": "Development of partnership network structure based on questionnaire data.\nhttps://hnaganob.shinyapps.io/covid-partnerships/\nStatistical consulting project conducted in collaboration with:\nPriscilla A. Barnes, Ph.D.  Associate Professor  Department of Applied Health Science, School of Public Health, Indiana University Bloomington"
+    "text": "Development of partnership network structure based on questionnaire data.\nLaunch App\nStatistical consulting project conducted in collaboration with:\nPriscilla A. Barnes, Ph.D.  Associate Professor  Department of Applied Health Science, School of Public Health, Indiana University Bloomington"
   },
   {
     "objectID": "portfolio/shiny/miscellaneous/covid-partnerships/index.html#overview",
     "href": "portfolio/shiny/miscellaneous/covid-partnerships/index.html#overview",
     "title": "COVID Partnerships",
     "section": "",
-    "text": "Development of partnership network structure based on questionnaire data.\nhttps://hnaganob.shinyapps.io/covid-partnerships/\nStatistical consulting project conducted in collaboration with:\nPriscilla A. Barnes, Ph.D.  Associate Professor  Department of Applied Health Science, School of Public Health, Indiana University Bloomington"
+    "text": "Development of partnership network structure based on questionnaire data.\nLaunch App\nStatistical consulting project conducted in collaboration with:\nPriscilla A. Barnes, Ph.D.  Associate Professor  Department of Applied Health Science, School of Public Health, Indiana University Bloomington"
   },
   {
     "objectID": "portfolio/shiny/brain/drunk-santa-claus/index.html",
     "href": "portfolio/shiny/brain/drunk-santa-claus/index.html",
     "title": "Drunk Santa Claus (drunksc)",
     "section": "",
-    "text": "https://hnaganob.shinyapps.io/drunk-santa-claus/"
+    "text": "Launch App"
   },
   {
     "objectID": "portfolio/shiny/brain/drunk-santa-claus/index.html#overview",
     "href": "portfolio/shiny/brain/drunk-santa-claus/index.html#overview",
     "title": "Drunk Santa Claus (drunksc)",
     "section": "",
-    "text": "https://hnaganob.shinyapps.io/drunk-santa-claus/"
+    "text": "Launch App"
   },
   {
     "objectID": "portfolio/shiny/brain/drunk-santa-claus/index.html#data",
@@ -347,14 +347,14 @@
     "href": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html",
     "title": "Football Clustered Head Impact Network",
     "section": "",
-    "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nhttps://hnaganob.shinyapps.io/football-clustered-head-impact-network/"
+    "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html#overview",
     "href": "portfolio/shiny/sports/football-clustered-head-impact-network/index.html#overview",
     "title": "Football Clustered Head Impact Network",
     "section": "",
-    "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nhttps://hnaganob.shinyapps.io/football-clustered-head-impact-network/"
+    "text": "Football concussion exploratory analysis. This app generates a network structure for each activity day based on simultaneous head impacts derived from multiple independent, time-sensitive accelerometer data streams.\nLaunch App"
   },
   {
     "objectID": "contact.html",

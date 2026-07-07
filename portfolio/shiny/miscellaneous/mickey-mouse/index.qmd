@@ -10,7 +10,7 @@ image: image.png
 
 My first Shiny app.
 
-<https://hnaganob.shinyapps.io/mickey-mouse/>
+<!-- [Launch App](https://hnaganob-mickey-mouse.share.connect.posit.cloud){.btn .btn-primary .rounded-pill role="button"} -->
 
 It enables a quick check for R color names `colors`.
 
@@ -22,6 +22,6 @@ colors()[1:12]
 
 <br>
 
-<iframe src="https://hnaganob.shinyapps.io/mickey-mouse/" width="100%" height="600" style="border:0;">
+<iframe src="https://hnaganob-mickey-mouse.share.connect.posit.cloud" width="100%" height="600" style="border:0;">
 
 </iframe>
