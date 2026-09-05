@@ -1,17 +1,17 @@
 ---
-title: "Field Hockey Animation"
+title: "Field Hockey GPS Animation"
 description: "Player activity animation using Polar Team Pro GPS tracking data."
 categories: [Animation, Network]
 order: 2
-image: "image.png"
+image: "images/thumbnail.png"
 ---
 
 ## Overview
 
 Player activity animation using Polar Team Pro GPS tracking data.
 
-[Launch App](https://hnaganob.shinyapps.io/field-hockey/){.btn .btn-primary .rounded-pill role="button"}
+[Launch App](https://hnaganob-field-hockey-gps.share.connect.posit.cloud/){.btn .btn-primary .rounded-pill role="button"}
 
 <br>
 
-[![](image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/field-hockey/)
+![](images/image.png){width="90%" fig-align="center"}

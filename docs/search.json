@@ -93,14 +93,14 @@
   {
     "objectID": "portfolio/shiny/sports/field-hockey/index.html",
     "href": "portfolio/shiny/sports/field-hockey/index.html",
-    "title": "Field Hockey Animation",
+    "title": "Field Hockey GPS Animation",
     "section": "",
     "text": "Player activity animation using Polar Team Pro GPS tracking data.\nLaunch App"
   },
   {
     "objectID": "portfolio/shiny/sports/field-hockey/index.html#overview",
     "href": "portfolio/shiny/sports/field-hockey/index.html#overview",
-    "title": "Field Hockey Animation",
+    "title": "Field Hockey GPS Animation",
     "section": "",
     "text": "Player activity animation using Polar Team Pro GPS tracking data.\nLaunch App"
   },
@@ -284,7 +284,7 @@
     "href": "portfolio/shiny.html#sports",
     "title": "Shiny Web Apps",
     "section": "Sports",
-    "text": "Sports\n\n\n\n\n\n\n\n\n\n\nFINA Swimming Rankings\n\n\n\nEDA\n\n\n\nDistribution of world top 100 swimmers for each event from 1990 to 2014.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Hockey Animation\n\n\n\nAnimation\n\n\nNetwork\n\n\n\nPlayer activity animation using Polar Team Pro GPS tracking data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNFL Big Data Bowl 2025\n\n\n\nAnimation\n\n\n\nMinimal R Shiny animation code template developed for a Kaggle competition.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFootball Clustered Head Impact Network\n\n\n\nNetwork\n\n\nEDA\n\n\n\nExploration of head-to-head collisions from accelerometer data.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Sports\n\n\n\n\n\n\n\n\n\n\nFINA Swimming Rankings\n\n\n\nEDA\n\n\n\nDistribution of world top 100 swimmers for each event from 1990 to 2014.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Hockey GPS Animation\n\n\n\nAnimation\n\n\nNetwork\n\n\n\nPlayer activity animation using Polar Team Pro GPS tracking data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNFL Big Data Bowl 2025\n\n\n\nAnimation\n\n\n\nMinimal R Shiny animation code template developed for a Kaggle competition.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFootball Clustered Head Impact Network\n\n\n\nNetwork\n\n\nEDA\n\n\n\nExploration of head-to-head collisions from accelerometer data.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/shiny.html#miscellaneous",
