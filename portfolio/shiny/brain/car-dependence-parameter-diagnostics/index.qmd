@@ -16,4 +16,4 @@ It demonstrates how triadic structures influence spatial autocorrelation pattern
 
 <br>
 
-[![](images/image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/)
+![](images/image.png){width="80%" fig-align="center"}
