@@ -3,7 +3,7 @@ title: "CAR Dependence Parameter Diagnostics"
 description: "Diagnosis of graph-specific spatial autocorrelation in the Markov random field model framework."
 categories: [Network, CAR]
 order: 3
-image: "image.png"
+image: "images/thumbnail.png"
 ---
 
 ## Overview
@@ -16,4 +16,4 @@ It demonstrates how triadic structures influence spatial autocorrelation pattern
 
 <br>
 
-[![](image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/)
+[![](images/image.png){width="80%" fig-align="center"}](https://hnaganob.shinyapps.io/car-dependence-parameter-diagnostics/)
